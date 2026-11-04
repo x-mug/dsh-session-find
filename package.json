@@ -4,8 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/x-mug/dsh-plugins.git",
-    "directory": "plugins/dsh-session-find"
+    "url": "https://github.com/x-mug/dsh-session-find.git"
   },
   "type": "module",
   "description": "Worker-powered search with verified history, exact navigation checks and cross-session search.",
